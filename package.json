@@ -1,0 +1,14 @@
+{
+	"name": "myproject",
+	"description": "app with continuous delivery",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+    "express": "4.16.0"
+	},
+	"devDependencies": {
+		"mocha": "5.2.0",
+		"supertest": "3.2.0"
+	}
+
+}	
