@@ -4,6 +4,6 @@
 
   </head>
   <body>
-    <p>How's it goin'?</p>
+    <p>Hey, bro!</p>
   </body>
 </html>
